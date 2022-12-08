@@ -1,0 +1,7 @@
+name: rRPChat
+version: ${project.version}
+main: ru.divided.rrpchat.Core
+api-version: 1.16
+authors: [ divided ]
+description: Plugin that adds RP commands
+website: https://divided.shuoki.top
